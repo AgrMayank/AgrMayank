@@ -20,10 +20,11 @@ _You've stumbled upon a page from a different reality! Let me tell you a brief s
 #### // About Me
 I'm Mayank Raj, a Software Developer passionate about creating _"breathtakingly immersive experiences"_ in emerging technologies like _Augmented / Virtual Reality (AR/VR)!_<br>
 I'm  being well-experienced in fields like - <br>
-• _Software Development (Android / iOS / Web / Windows)<br>
+• _Software Development (Android / iOS / Windows)<br>
+• Web Development<br>
 • Machine Learning (AI)<br>
 • Game Design & Development (Unity3D)<br>
-• 3D Modelling & Animation (Blender3D)_, and have a great understanding of the technologies powering them.<br>
+• 3D Modelling & Animation (Blender3D)_<br>
 
 #### // Contact Me
 • 📬 Feel free to reach out - [agrmayank@outlook.com](mailto:agrmayank@outlook.com)<br>
