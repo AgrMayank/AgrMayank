@@ -19,7 +19,7 @@ _You've stumbled upon a page from a different reality! Let me tell you a brief s
 
 #### // About Me
 I'm Mayank Raj, a Software Developer passionate about creating _"breathtakingly immersive experiences"_ in emerging technologies like _Augmented / Virtual Reality (AR/VR)!_<br>
-I'm  being well-experienced in fields like - <br>
+I'm well-experienced in fields like - <br>
 • _Software Development (Android / iOS / Windows)<br>
 • Web Development<br>
 • Machine Learning (AI)<br>
