@@ -31,8 +31,10 @@ I'm well-experienced in fields like - <br>
 
 <h2 align="center">// Contact Me</h2>
 
-• 📬 Feel free to reach out - [agrmayank@outlook.com](mailto:agrmayank@outlook.com)<br>
-• 🎨 Check out my portfolio - [agrmayank.com](https://agrmayank.com/)
-
-[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=AgrMayank&show_icons=true&title_color=fbeb58&icon_color=fbeb58&text_color=fbeb58&bg_color=535a60)](https://github.com/anuraghazra/github-readme-stats)
- 
+<p align="center">
+• 📬 Feel free to reach out - <a href="mailto:agrmayank@outlook.com">agrmayank@outlook.com</a><br>
+• 🎨 Check out my portfolio - <a href="https://agrmayank.com/" target="_blank">agrmayank.com</a><br><br>
+<a href="https://agrmayank.com/">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgrMayank&show_icons=true&title_color=fbeb58&icon_color=fbeb58&text_color=fbeb58&bg_color=535a60" />
+</a>
+</p>
