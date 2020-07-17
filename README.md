@@ -15,18 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
- <img src="http://hits.dwyl.com/AgrMayank/AgrMayank.svg"></img>
-</p>
-
-<div style="text-align: center">
-<a href="https://medium.com/@AgrMayank" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://twitter.com/myid_mayank" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/AgrMayank/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/myid.mayank" target="_blank"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/myid.mayank/" target="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
 <p align="center"><i>You've stumbled upon a page from a different reality! Let me tell you a brief story.</i></p>
 
 <h2 align="center">// ₐbₒᵤₜ ₘₑ</h2>
@@ -44,7 +32,12 @@ I'm also well-experienced in fields like - <br>
 
 <p align="center">
 • 📬 Feel free to reach out - <a href="mailto:agrmayank@outlook.com">agrmayank@outlook.com</a><br>
-• 🎨 Check out my portfolio - <a href="https://agrmayank.com/" target="_blank">agrmayank.com</a><br><br>
+• 🎨 Check out my portfolio - <a href="https://agrmayank.com/" target="_blank">agrmayank.com</a>
+<br>
+<img src="http://hits.dwyl.com/AgrMayank/AgrMayank.svg"></img>
+<br>
+<a href="https://medium.com/@AgrMayank" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/myid_mayank" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/AgrMayank/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/myid.mayank" target="_blank"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.instagram.com/myid.mayank/" target="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<br>
 <a href="https://agrmayank.com/">
   <img src="https://github-readme-stats.vercel.app/api?username=AgrMayank&show_icons=true&title_color=fbeb58&icon_color=fbeb58&text_color=fbeb58&bg_color=535a60" />
 </a>
