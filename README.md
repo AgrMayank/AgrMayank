@@ -1,4 +1,4 @@
-<h1 align="center">// ₕₑₗₗₒ wₒᵣₗd! ฅ^•ﻌ•^ฅ</h1>
+<h1 align="center">ฅ^•ﻌ•^ฅ<br>// ₕₑₗₗₒ wₒᵣₗd!</h1>
 
 <!--
 **AgrMayank/AgrMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ I'm also well-experienced in fields like - <br>
 
 <p align="center">
 • 📬 Feel free to reach out - <a href="mailto:agrmayank@outlook.com">agrmayank@outlook.com</a><br>
-• 🎨 Check out my portfolio - <a href="https://agrmayank.com/" target="_blank">agrmayank.com</a>
+• 🎨 Check out my portfolio - <a href="https://agrmayank.com/" target="_blank">agrmayank.com</a><br>
 <br>
 <img src="http://hits.dwyl.com/AgrMayank/AgrMayank.svg"></img>
 <br>
