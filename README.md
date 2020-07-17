@@ -1,4 +1,4 @@
-<h1 align="center">// Hello World! ฅ^•ﻌ•^ฅ</h1>
+<h1 align="center">// ₕₑₗₗₒ wₒᵣₗd! ฅ^•ﻌ•^ฅ</h1>
 
 <!--
 **AgrMayank/AgrMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![HitCount](http://hits.dwyl.com/AgrMayank/AgrMayank.svg)](http://hits.dwyl.com/AgrMayank/AgrMayank)
+
 <p align="center"><i>You've stumbled upon a page from a different reality! Let me tell you a brief story.</i></p>
 
-<h2 align="center">// About Me</h2>
+<h2 align="center">// ₐbₒᵤₜ ₘₑ</h2>
 
 <p align="center">
- I'm <b>Mayank Raj</b>, a Software Developer passionate about creating<br><i>"breathtakingly immersive experiences"</i><br>in emerging technologies like <i>Augmented / Virtual Reality (AR/VR)!</i><br>
-I'm well-experienced in fields like - <br>
-<i>
-• Software Development (Android / iOS / Windows)<br>
-• Web Development<br>
-• Machine Learning (AI)<br>
-• Game Design & Development (Unity3D)<br>
-• 3D Modelling & Animation (Blender3D)<br></i></p>
+ I'm 𝐌𝐚𝐲𝐚𝐧𝐤 𝐑𝐚𝐣, a Software Developer passionate about creating<br><i>"breathtakingly immersive experiences"</i><br>in emerging technologies like 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 / 𝚅𝚒𝚛𝚝𝚞𝚊𝚕 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 (𝙰𝚁/𝚅𝚁)!<br>
+I'm also well-experienced in fields like - <br>
+• 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 (𝙰𝚗𝚍𝚛𝚘𝚒𝚍 / 𝚒𝙾𝚂 / 𝚆𝚒𝚗𝚍𝚘𝚠𝚜)<br>
+• 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝<br>
+• 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 (𝙰𝙸)<br>
+• 𝙶𝚊𝚖𝚎 𝙳𝚎𝚜𝚒𝚐𝚗 & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 (𝚄𝚗𝚒𝚝𝚢𝟹𝙳)<br>
+• 𝟹𝙳 𝙼𝚘𝚍𝚎𝚕𝚕𝚒𝚗𝚐 & 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 (𝙱𝚕𝚎𝚗𝚍𝚎𝚛𝟹𝙳)<br></p>
 
-<h2 align="center">// Contact Me</h2>
+<h2 align="center">// cₒₙₜₐcₜ ₘₑ</h2>
 
 <p align="center">
 • 📬 Feel free to reach out - <a href="mailto:agrmayank@outlook.com">agrmayank@outlook.com</a><br>
