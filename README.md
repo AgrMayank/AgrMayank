@@ -33,5 +33,5 @@ I'm well-experienced in fields like - <br>
 • 📬 Feel free to reach out - [agrmayank@outlook.com](mailto:agrmayank@outlook.com)<br>
 • 🎨 Check out my portfolio - [agrmayank.com](https://agrmayank.com/)
 
-[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=AgrMayank&show_icons=true&hide=["stars"]&title_color=fbeb58&icon_color=fbeb58&text_color=fbeb58&bg_color=535a60)](https://github.com/anuraghazra/github-readme-stats)
+[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=AgrMayank&show_icons=true&title_color=fbeb58&icon_color=fbeb58&text_color=fbeb58&bg_color=535a60)](https://github.com/anuraghazra/github-readme-stats)
  
