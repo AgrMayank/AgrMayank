@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HitCount](http://hits.dwyl.com/AgrMayank/AgrMayank.svg)](http://hits.dwyl.com/AgrMayank/AgrMayank)
+[![HitCount](http://hits.dwyl.com/AgrMayank/AgrMayank.svg)](http://hits.dwyl.com/AgrMayank/AgrMayank) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />](https://twitter.com/myid_mayank) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" />](https://medium.com/@AgrMayank)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/AgrMayank/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/myid.mayank/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/myid.mayank)
 
 <p align="center"><i>You've stumbled upon a page from a different reality! Let me tell you a brief story.</i></p>
 
