@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-_You've stumbled upon a page from a different reality! Let me tell you a brief story._
-
+<p align="center"><i>You've stumbled upon a page from a different reality! Let me tell you a brief story.</i></p>
 
 <h2 align="center">// About Me</h2>
 
-I'm Mayank Raj, a Software Developer passionate about creating _"breathtakingly immersive experiences"_ in emerging technologies like _Augmented / Virtual Reality (AR/VR)!_<br>
+<p align="center">
+ I'm <b>Mayank Raj</b>, a Software Developer passionate about creating<br><i>"breathtakingly immersive experiences"</i><br>in emerging technologies like <i>Augmented / Virtual Reality (AR/VR)!</i><br>
 I'm well-experienced in fields like - <br>
-• _Software Development (Android / iOS / Windows)<br>
+<i>
+• Software Development (Android / iOS / Windows)<br>
 • Web Development<br>
 • Machine Learning (AI)<br>
 • Game Design & Development (Unity3D)<br>
-• 3D Modelling & Animation (Blender3D)_<br>
+• 3D Modelling & Animation (Blender3D)<br></i></p>
 
 <h2 align="center">// Contact Me</h2>
 
