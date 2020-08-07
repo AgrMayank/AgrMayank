@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h2 align="center">// ₐbₒᵤₜ ₘₑ</h2>
 
 <p align="center">
- I'm 𝐌𝐚𝐲𝐚𝐧𝐤 𝐑𝐚𝐣, a Software Developer passionate about creating<br><i>"breathtakingly immersive experiences"</i><br>in emerging technologies like 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 / 𝚅𝚒𝚛𝚝𝚞𝚊𝚕 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 (𝙰𝚁/𝚅𝚁)!<br>
+ I'm 𝘔𝘢𝘺𝘢𝘯𝘬 𝘙𝘢𝘫, a Software Developer passionate about creating<br><i>"breathtakingly immersive experiences"</i><br>in emerging technologies like 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 / 𝚅𝚒𝚛𝚝𝚞𝚊𝚕 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 (𝙰𝚁/𝚅𝚁)!<br>
 I'm also well-experienced in fields like - <br>
 • 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 (𝙰𝚗𝚍𝚛𝚘𝚒𝚍 / 𝚒𝙾𝚂 / 𝚆𝚒𝚗𝚍𝚘𝚠𝚜)    • 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝<br>
 • 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 (𝙰𝙸)    • 𝙶𝚊𝚖𝚎 𝙳𝚎𝚜𝚒𝚐𝚗 & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 (𝚄𝚗𝚒𝚝𝚢𝟹𝙳)<br>
