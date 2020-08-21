@@ -1,4 +1,4 @@
-<h1 align="center">ฅ^•ﻌ•^ฅ<br>// ₕₑₗₗₒ wₒᵣₗd!</h1>
+<h1 align="center">ฅ^•ﻌ•^ฅ<br>// 𝖍𝖊𝖑𝖑𝖔 𝖜𝖔𝖗𝖑𝖉!</h1>
 
 <!--
 **AgrMayank/AgrMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <p align="center"><i>You've stumbled upon a page from a different reality! Let me tell you a brief story.</i></p>
 
-<h2 align="center">// ₐbₒᵤₜ ₘₑ</h2>
+<h2 align="center">// 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊</h2>
 
 <p align="center">
- I'm a Software Developer passionate about creating <i>"breathtakingly immersive experiences"</i><br>in emerging technologies like 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 / 𝚅𝚒𝚛𝚝𝚞𝚊𝚕 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 (𝙰𝚁/𝚅𝚁)! <br>I'm also well-experienced in fields like - <br>
-• 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 (𝙰𝚗𝚍𝚛𝚘𝚒𝚍 / 𝚒𝙾𝚂 / 𝚆𝚒𝚗𝚍𝚘𝚠𝚜)    • 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝    • 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 (𝙰𝙸)<br>
-• 𝙶𝚊𝚖𝚎 𝙳𝚎𝚜𝚒𝚐𝚗 & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 (𝚄𝚗𝚒𝚝𝚢𝟹𝙳)    • 𝟹𝙳 𝙼𝚘𝚍𝚎𝚕𝚕𝚒𝚗𝚐 & 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 (𝙱𝚕𝚎𝚗𝚍𝚎𝚛𝟹𝙳)<br></p>
+ I'm a Software Developer passionate about creating <i>"breathtakingly immersive experiences"</i><br>in emerging technologies like 𝗔𝘂𝗴𝗺𝗲𝗻𝘁𝗲𝗱/𝗩𝗶𝗿𝘁𝘂𝗮𝗹 𝗥𝗲𝗮𝗹𝗶𝘁𝘆 (𝗔𝗥/𝗩𝗥)! <br>I'm also well-experienced in fields like - <br>
+• 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗔𝗻𝗱𝗿𝗼𝗶𝗱 / 𝗶𝗢𝗦 / 𝗪𝗶𝗻𝗱𝗼𝘄𝘀) • 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 • 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 (𝗔𝗜) <br>
+• 𝗚𝗮𝗺𝗲 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗨𝗻𝗶𝘁𝘆 𝟯𝗗) • 𝟯𝗗 𝗠𝗼𝗱𝗲𝗹𝗹𝗶𝗻𝗴 & 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻 (𝗕𝗹𝗲𝗻𝗱𝗲𝗿 𝟯𝗗)<br></p>
 
-<h2 align="center">// cₒₙₜₐcₜ ₘₑ</h2>
+<h2 align="center">// 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊</h2>
 <p align="center">
 <!-- • 📬 Feel free to reach out - <a href="mailto:agrmayank@outlook.com">agrmayank@outlook.com</a><br>
 • 🎨 Check out my portfolio - <a href="https://agrmayank.com/" target="_blank">agrmayank.com</a><br>
