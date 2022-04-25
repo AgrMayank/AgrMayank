@@ -7,7 +7,7 @@
 <p align="center">
  I'm a Software Developer creating <i>"breathtakingly immersive experiences"</i><br> in technologies like <b>Augmented / Mixed / Virtual Reality (AR/MR/VR)!</b> <br>I'm also well-experienced in fields like - <br>
 <b>
-• Android (Flutter) / Windows / Web Development • Machine Learning<br>
+• Android & iOS (Flutter/Unity) / Windows / Web Development • Machine Learning<br>
 • Game Design & Development (Unity) • 3D Modelling & Animation (Blender)</p>
 </b>
 
