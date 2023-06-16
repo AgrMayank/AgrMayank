@@ -5,11 +5,8 @@
 <h2 align="center">// 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊</h2>
 
 <p align="center">
- I'm a Software Developer creating <i>"breathtakingly immersive experiences"</i><br> in technologies like <b>Augmented / Mixed / Virtual Reality (AR/MR/VR)!</b> <br>I'm also well-experienced in fields like - <br>
-<b>
-• Android & iOS (Flutter/Unity) / Windows / Web Development • Machine Learning<br>
-• Game Design & Development (Unity) • 3D Modelling & Animation (Blender)</p>
-</b>
+ I'm a Software Developer creating "breathtakingly immersive experiences" in AR, MR, and VR. With Flutter, Unity, and a passion for innovation, I craft mesmerizing worlds that transcend reality. Beyond spatial computing, I dive into the mobile app landscape, forging intuitive experiences for Android, iOS, JioGlass, and other XR platforms.</br></br>With Unity and Blender as my palette, I transport players to realms of excitement and wonder. Every pixel, interaction, and storyline is meticulously crafted, breathing life into characters and objects with meticulous detail. My goal is to immerse gamers in unforgettable experiences, captivating their imaginations.</br></br>As my journey unfolds, I embrace the revolutionary potential of blockchain technology. Venturing into secure and decentralized environments, I redefine virtual interactions and shape the future of the metaverse.
+</p>
 
 <h2 align="center">// 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊</h2>
 <p align="center">
