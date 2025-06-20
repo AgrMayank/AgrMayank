@@ -4,9 +4,11 @@
 
 I'm Mayank Raj (aka AgrMayank) — Game Designer, Developer & XR Specialist.  
 
-[![agrmayank.com](https://img.shields.io/badge/-agrmayank.com-FA8072?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agrmayank.com)
+[![agrmayank.com](https://img.shields.io/badge/-agrmayank.com-fb5353?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agrmayank.com)
+[![studios.agrmayank.com](https://img.shields.io/badge/-studios.agrmayank.com-fe7660?style=for-the-badge&logo=google-chrome&logoColor=white)](https://studios.agrmayank.com)
+[![amnesea.com](https://img.shields.io/badge/-amnesea.com-097fea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amnesea.com)
 
-I craft immersive experiences that blend narrative, game feel and unique mechanics across PC, mobile, and spatial platforms. From Unity Day talks to game showcases at IGDC and Xbox Game Camp Asia, I'm focused on _building the kind of games you remember long after the credits roll._
+I craft immersive experiences that blend narrative, game feel and unique mechanics across PC, mobile, and spatial platforms. From Unity Day talk to game showcases at IGDC and Xbox Game Camp Asia, I'm focused on _building the kind of games you remember long after the credits roll._
 
 ---
 
@@ -70,7 +72,7 @@ _🏆 "Design Winner" at In the Making Festival (2025)._
 [![Discord](https://img.shields.io/badge/-@agrmayank-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/456744763266301953)
 [![Twitter](https://img.shields.io/badge/-@myid__mayank-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/myid_mayank)
 [![LinkedIn](https://img.shields.io/badge/-@AgrMayank-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/AgrMayank/)
-[![Instagram](https://img.shields.io/badge/-@myid.mayank-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myid.mayank/)
+<!--[![Instagram](https://img.shields.io/badge/-@myid.mayank-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myid.mayank/)-->
 
 </p>
 
