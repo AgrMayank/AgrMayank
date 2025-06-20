@@ -2,7 +2,7 @@
 
 <h2>// 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊</h2>
 
-I'm Mayank Raj (aka AgrMayank) — Game Designer, Developer & XR Specialist.  
+Hey, I'm Mayank Raj (aka AgrMayank) — Game Designer, Developer & XR Specialist.  
 
 [![agrmayank.com](https://img.shields.io/badge/-agrmayank.com-fb5353?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agrmayank.com)
 [![studios.agrmayank.com](https://img.shields.io/badge/-studios.agrmayank.com-ffc359?style=for-the-badge&logo=google-chrome&logoColor=white)](https://studios.agrmayank.com)
