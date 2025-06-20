@@ -16,26 +16,18 @@ I craft immersive experiences that blend narrative, game feel and unique mechani
 
 <p>
 
-[![KeyBound](https://img.shields.io/badge/-KeyBound-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3070700/KeyBound)  
-— A rogue-vania set inside a broken keyboard. Every key reclaimed is a new ability and a piece of yourself.
+[![KeyBound](https://img.shields.io/badge/-KeyBound-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3070700/KeyBound) — A rogue-vania set inside a broken keyboard. Every key reclaimed is a new ability and a piece of yourself.
 
-[![Spacey’s Adventures](https://img.shields.io/badge/-Spacey's%20Adventures-42af4f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.AgrMayank.SpaceysAdventure)  
-— A rogue-lite space shooter where you battle waves of enemies in an immersive XR setting.  
-_🏆 "AR/VR Game of the Year" Nominee at IGDC (2024)._
+[![Spacey’s Adventures](https://img.shields.io/badge/-Spacey's%20Adventures-42af4f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.AgrMayank.SpaceysAdventure) — A rogue-lite space shooter in an immersive XR setting. _"**AR/VR Game of the Year**" Nominee at IGDC (2024)._
 
 [![Planets AR (Android)](https://img.shields.io/badge/-Planets%20AR-42af4f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.AgrMayank.PlanetsAR)
-[![Planets AR (iOS)](https://img.shields.io/badge/-Planets%20AR-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/planets-ar-our-solar-system/id6483760783)  
-— Explore the solar system in AR. Over 150k downloads across Android, iOS & JioGlass.
+[![Planets AR (iOS)](https://img.shields.io/badge/-Planets%20AR-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/planets-ar-our-solar-system/id6483760783) — Explore the solar system in AR. Over 150k downloads across Android, iOS & JioGlass.
 
-[![Tail of 9 Lives](https://img.shields.io/badge/-Tail%20of%209%20Lives-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://agrmayank.itch.io/tail-of-9-lives)  
-— A survival roguelike where each lost cat life grants a tarot-powered buff.  
-_🏆 "Design Winner" at In the Making Festival (2025)._
+[![Tail of 9 Lives](https://img.shields.io/badge/-Tail%20of%209%20Lives-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://agrmayank.itch.io/tail-of-9-lives) — A platformer where each lost life grants a tarot-powered buff. _"**Design Winner**" at In the Making Festival (2025)._
 
-[![You Are the End](https://img.shields.io/badge/-You%20Are%20the%20End-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://agrmayank.itch.io/you-are-the-end)  
-— A genre-shifting tower defense rogue-lite, where your population is both your currency and your health.
+[![You Are the End](https://img.shields.io/badge/-You%20Are%20the%20End-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://agrmayank.itch.io/you-are-the-end) — A genre-shifting tower defense rogue-lite, where your population is both your currency and your health.
 
-[![Bravery of the Coward](https://img.shields.io/badge/-Bravery%20of%20the%20Coward-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://agrmayank.itch.io/bravery-of-the-coward)  
-— A 1-bit platformer with multiple endings. Explore moral choice, light, and darkness.
+[![Bravery of the Coward](https://img.shields.io/badge/-Bravery%20of%20the%20Coward-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://agrmayank.itch.io/bravery-of-the-coward) — A 1-bit platformer with multiple endings. Explore moral choice, light, and darkness.
 
 </p>
 
