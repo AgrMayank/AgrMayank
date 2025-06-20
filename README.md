@@ -5,8 +5,8 @@
 I'm Mayank Raj (aka AgrMayank) — Game Designer, Developer & XR Specialist.  
 
 [![agrmayank.com](https://img.shields.io/badge/-agrmayank.com-fb5353?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agrmayank.com)
-[![studios.agrmayank.com](https://img.shields.io/badge/-studios.agrmayank.com-fe7660?style=for-the-badge&logo=google-chrome&logoColor=white)](https://studios.agrmayank.com)
-[![amnesea.com](https://img.shields.io/badge/-amnesea.com-097fea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amnesea.com)
+[![studios.agrmayank.com](https://img.shields.io/badge/-studios.agrmayank.com-ffc359?style=for-the-badge&logo=google-chrome&logoColor=white)](https://studios.agrmayank.com)
+[![amnesea.com](https://img.shields.io/badge/-amnesea.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amnesea.com)
 
 I craft immersive experiences that blend narrative, game feel and unique mechanics across PC, mobile, and spatial platforms. From Unity Day talk to game showcases at IGDC and Xbox Game Camp Asia, I'm focused on _building the kind of games you remember long after the credits roll._
 
